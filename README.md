@@ -11,7 +11,7 @@ Trader who is having Extreme Greed are the most profitable
 Maximum Traded coin is : 'kSHIB' and it's fee is : 139224.226804
 
 Open Long having max. Direction
-Tools used:
+## Tools used:
 1. Pandas
 2. Matplotlib
 3. Seaborn
